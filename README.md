@@ -1,41 +1,87 @@
-<h2 align="center">Hey there! 👋 I'm Muhammad Jasim</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Muhammad+Jasim" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  🚀 AI Innovator | Python Solutions Architect | FastAPI Expert <br>
-  💬 I build LLM apps, Chatbots, and AI-Powered SaaS with LangChain, GPT-4, LLaMA <br>
-  🎯 Turning ideas into intelligent products, one line of code at a time
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasimjamil&label=Profile%20views&color=0e75b6&style=flat" alt="jasimjamil" />
+</div>
+
+<div align="center">
+  <h3>🚀 AI Innovator | Python Solutions Architect | FastAPI Expert</h3>
+  <p>💬 Building the future with AI | Transforming ideas into intelligent products</p>
+</div>
+
+---
+
+### 🎯 About Me
+<p>
+  Passionate about creating innovative AI solutions and building intelligent applications. 
+  Specializing in Large Language Models, Chatbots, and AI-Powered SaaS platforms.
+  Turning complex problems into elegant solutions with clean, efficient code.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Xubuntu](https://img.shields.io/badge/Xubuntu-002147?style=flat&logo=xubuntu)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,openai,git,linux,docker,postgres,redis,aws,gcp" />
+</div>
 
 ---
 
-### 🚀 Projects
-- 🧠 **[chatbot_new](https://github.com/jasimjamil/chatbot_new)** – Modern AI chatbot template using LangChain & GPT-4
-- 🤖 **[AI_reports_clint](https://github.com/jasimjamil/AI_reports_clint)** – Auto-generated investment insights using LLMs
-- 🛠️ **[jasim_new_chatbot](https://github.com/jasimjamil/jasim_new_chatbot)** – Clean architecture chatbot integration
+### 🚀 Featured Projects
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 Modern AI Chatbot</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=chatbot_new&theme=tokyonight" />
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 AI Investment Insights</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=AI_reports_clint&theme=tokyonight" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasimjamil&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasimjamil&theme=tokyonight" height="165">
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasimjamil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasimjamil&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasimjamil&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-### 🌐 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ jasim-jamil-b21802287)
-
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](UCPrrG6fKNvCYEMQIfUEvqPA)
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jasimjamil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ---
+
+### 🌐 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/jasim-jamil-b21802287" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@UCPrrG6fKNvCYEMQIfUEvqPA" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/jasimjamil/jasimjamil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
