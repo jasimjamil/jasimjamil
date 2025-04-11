@@ -30,31 +30,31 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
         <br>FastAPI
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
         <br>Linux
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/assets/langchain_logo.png" width="48" height="48" alt="LangChain" />
+        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" width="48" height="48" alt="LangChain" />
         <br>LangChain
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/assets/langgraph_logo.png" width="48" height="48" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white" width="48" height="48" alt="LangGraph" />
         <br>LangGraph
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/langchain-ai/langsmith/main/docs/assets/langsmith_logo.png" width="48" height="48" alt="LangSmith" />
+        <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langsmith&logoColor=white" width="48" height="48" alt="LangSmith" />
         <br>LangSmith
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/lite/tools/visualization/images/logo.png" width="48" height="48" alt="ML" />
+        <img src="https://img.shields.io/badge/ML/DL-000000?style=for-the-badge&logo=tensorflow&logoColor=white" width="48" height="48" alt="ML" />
         <br>ML/DL
       </td>
     </tr>
