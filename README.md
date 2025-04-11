@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=AI+Innovator+🚀;Python+Solutions+Architect+💻;FastAPI+Expert+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=AI+Innovator+🚀;ML+Engineer+🧠;Python+Developer+🐍" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <b>Passionate about creating innovative AI solutions and building intelligent applications.</b><br>
-  Specializing in Large Language Models, Chatbots, and AI-Powered SaaS platforms.<br>
+  Specializing in Machine Learning, Deep Learning, and AI-Powered applications.<br>
   Turning complex problems into elegant solutions with clean, efficient code.
 </p>
 
@@ -27,7 +27,30 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,openai,git,linux,docker,postgres,redis,aws,gcp,react,nextjs,typescript,nodejs" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" alt="LangChain" />
+        <br>LangChain
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=langgraph" width="48" height="48" alt="LangGraph" />
+        <br>LangGraph
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -39,15 +62,13 @@
       <td width="50%">
         <h3 align="center">🤖 Modern AI Chatbot</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=chatbot_new&theme=tokyonight" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasimjamil&repo=chatbot_new&layout=compact&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=chatbot_new&theme=radical" />
         </div>
       </td>
       <td width="50%">
         <h3 align="center">📊 AI Investment Insights</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=AI_reports_clint&theme=tokyonight" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasimjamil&repo=AI_reports_clint&layout=compact&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=AI_reports_clint&theme=radical" />
         </div>
       </td>
     </tr>
@@ -58,23 +79,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasimjamil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasimjamil&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasimjamil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasimjamil&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasimjamil&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasimjamil&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasimjamil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasimjamil&theme=tokyonight&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jasimjamil&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
 ---
@@ -87,26 +101,9 @@
   <a href="https://youtube.com/@UCPrrG6fKNvCYEMQIfUEvqPA" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </div>
 
 ---
-
-### 🎵 Spotify Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/jasimjamil/jasimjamil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling" />
