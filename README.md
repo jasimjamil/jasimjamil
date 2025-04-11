@@ -42,12 +42,16 @@
         <br>Linux
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/assets/langchain_logo.png" width="48" height="48" alt="LangChain" />
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/assets/langchain_logo.png" width="48" height="48" alt="LangChain" />
         <br>LangChain
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/assets/langgraph_logo.png" width="48" height="48" alt="LangGraph" />
         <br>LangGraph
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/langchain-ai/langsmith/main/docs/assets/langsmith_logo.png" width="48" height="48" alt="LangSmith" />
+        <br>LangSmith
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/lite/tools/visualization/images/logo.png" width="48" height="48" alt="ML" />
