@@ -30,24 +30,28 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
         <br>FastAPI
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br>Linux
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" alt="LangChain" />
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/assets/langchain_logo.png" width="48" height="48" alt="LangChain" />
         <br>LangChain
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=langgraph" width="48" height="48" alt="LangGraph" />
+        <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/assets/langgraph_logo.png" width="48" height="48" alt="LangGraph" />
         <br>LangGraph
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/lite/tools/visualization/images/logo.png" width="48" height="48" alt="ML" />
+        <br>ML/DL
       </td>
     </tr>
   </table>
