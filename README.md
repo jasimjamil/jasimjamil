@@ -1,118 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Jasim&fontSize=60&fontAlignY=35&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=100&lines=AI+%26+ML+Engineer;Business+Solutions+Architect;Innovation+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=AI+Innovator+🚀;ML+Engineer+🧠;Python+Developer+🐍" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6AD3F7,100:00D4FF&height=100&section=header"/>
 </div>
 
+<h1 align="center">👋 Hi, I'm Muhammad Jasim</h1>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jasimjamil&label=Profile%20views&color=0e75b6&style=flat" alt="jasimjamil" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-00D4FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business-Solutions-6AD3F7?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/2%2B-Years%20Experience-00D4FF?style=for-the-badge&logo=clock&logoColor=white" />
 </div>
 
----
+## 🎯 About Me
 
-### 🎯 About Me
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </div>
 
-<p align="center">
-  <b>Passionate about creating innovative AI solutions and building intelligent applications.</b><br>
-  Specializing in Machine Learning, Deep Learning, and AI-Powered applications.<br>
-  Turning complex problems into elegant solutions with clean, efficient code.
-</p>
+> "Transforming business challenges into AI-powered solutions through innovation and expertise"
 
----
+I'm an AI/ML Engineer with 2+ years of experience in developing intelligent systems and business solutions. My passion lies in leveraging cutting-edge AI technologies to solve complex business problems and drive innovation. I specialize in creating scalable, efficient, and intelligent solutions that make a real impact.
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-        <br>FastAPI
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" width="48" height="48" alt="LangChain" />
-        <br>LangChain
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white" width="48" height="48" alt="LangGraph" />
-        <br>LangGraph
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langsmith&logoColor=white" width="48" height="48" alt="LangSmith" />
-        <br>LangSmith
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/ML/DL-000000?style=for-the-badge&logo=tensorflow&logoColor=white" width="48" height="48" alt="ML" />
-        <br>ML/DL
-      </td>
-    </tr>
-  </table>
+  
+### 🚀 Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
+
+### 🤖 AI & ML Stack
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=smith&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![DL](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Chatbots](https://img.shields.io/badge/Chatbots-00A67E?style=for-the-badge&logo=chatbot&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-009688?style=for-the-badge&logo=deployment&logoColor=white)
+
 </div>
 
----
+## 📊 GitHub Analytics
 
-### 🚀 Featured Projects
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 Modern AI Chatbot</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=chatbot_new&theme=radical" />
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 AI Investment Insights</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=AI_reports_clint&theme=radical" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your GitHub Username]&theme=radical&hide_border=true&background=0D1117" />
 </div>
 
----
+## 🌟 Featured Projects
 
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasimjamil&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasimjamil&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasimjamil&layout=compact&theme=radical&hide_border=true" />
+  <a href="[Your Project Link]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your GitHub Username]&repo=[Repo Name]&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
 
----
+## 📫 Connect With Me
 
-### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasimjamil&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-### 🌐 Connect With Me
-<div align="center">
-  <a href="https://linkedin.com/in/jasim-jamil-b21802287" target="blank">
+  <a href="[Your LinkedIn]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@UCPrrG6fKNvCYEMQIfUEvqPA" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="[Your Twitter]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="mailto:[Your Email]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[Your Portfolio]">
+    <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=portfolio&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6AD3F7,100:00D4FF&height=100&section=footer"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling" />
+  <img src="https://komarev.com/ghpvc/?username=[Your GitHub Username]&color=00D4FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/[Your GitHub Username]?label=Follow&style=social" />
 </div>
