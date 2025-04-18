@@ -14,14 +14,6 @@
   </h1>
 </div>
 
-<!-- Particle JS Background Effect -->
-<!-- Add this to your profile repo and link the HTML file -->
-<div align="center">
-  <a href="https://yourusername.github.io/particle-background/">
-    <img src="https://img.shields.io/badge/✨_Interactive_Background-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
 <!-- Glowing Tech Stack -->
 <div align="center">
   <h2>⚡ Lightning-Fast Tech Stack</h2>
@@ -65,9 +57,6 @@
   </a>
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&fire=FF00FF&background=000000" />
-  </a>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
   </a>
 </div>
 
@@ -125,12 +114,4 @@
 <!-- Interactive Visitor Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=FF00FF&style=for-the-badge" />
-</div>
-
-<!-- Music Player (Spotify) -->
-<div align="center">
-  <h2>🎧 Current Coding Soundtrack</h2>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=ff00ff&bar_color_cover=true" />
-  </a>
 </div>
