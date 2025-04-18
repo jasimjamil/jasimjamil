@@ -1,3 +1,4 @@
+<!-- Dynamic Header with Particle Effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=200&section=header&text=AI%20Alchemist&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Transforming%20Data%20into%20Digital%20Gold&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
@@ -7,14 +8,21 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
 </div>
 
-<!-- 3D Animated Typing Text -->
+<!-- 3D Animated Typing Text with Glow Effect -->
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=AI+Architect+%7C+Machine+Learning+Savant;Neural+Network+Whisperer+%7C+Data+Scientist;Building+the+Brains+of+Tomorrow;Pushing+AI+Beyond+Human+Imagination" alt="Typing SVG" /></a>
   </h1>
 </div>
 
-<!-- Glowing Tech Stack -->
+<!-- Particle JS Background Effect -->
+<div align="center">
+  <a href="https://yourusername.github.io/particle-background/">
+    <img src="https://img.shields.io/badge/✨_Interactive_Background-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<!-- Glowing Tech Stack with Hover Effects -->
 <div align="center">
   <h2>⚡ Lightning-Fast Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,fastapi,flask,docker,aws,gcp,azure,git,github,linux,vscode&theme=dark&perline=7" />
@@ -25,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
 </div>
 
-<!-- 3D Card Portfolio -->
+<!-- 3D Card Portfolio with Hover Effects -->
 <h2 align="center">🚀 Signature Projects</h2>
 <div align="center">
   <table>
@@ -49,7 +57,7 @@
   </table>
 </div>
 
-<!-- Interactive GitHub Stats -->
+<!-- Interactive GitHub Stats with 3D Effect -->
 <h2 align="center">📊 Real-Time Dev Pulse</h2>
 <div align="center">
   <a href="#">
@@ -58,9 +66,12 @@
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&fire=FF00FF&background=000000" />
   </a>
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
+  </a>
 </div>
 
-<!-- 3D Skill Bars -->
+<!-- 3D Skill Bars with Animation -->
 <h2 align="center">🔥 Core Competencies</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8&hide_border=true" />
@@ -89,7 +100,7 @@
   </tr>
 </table>
 
-<!-- Animated Contact Section -->
+<!-- Animated Contact Section with Hover Effects -->
 <div align="center">
   <h2>🌌 Connect With Me</h2>
   <a href="https://linkedin.com/in/yourprofile">
@@ -114,4 +125,12 @@
 <!-- Interactive Visitor Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=FF00FF&style=for-the-badge" />
+</div>
+
+<!-- Music Player (Spotify) -->
+<div align="center">
+  <h2>🎧 Current Coding Soundtrack</h2>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=ff00ff&bar_color_cover=true" />
+  </a>
 </div>
