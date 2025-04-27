@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/Hugging_Face-01411C?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
       <img src="https://img.shields.io/badge/scikit_learn-01411C?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
     </p>
-    
+  
     <!-- LLM Stack -->
     <p>
       <img src="https://img.shields.io/badge/LangChain-01411C?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/Agents-01411C?style=for-the-badge&logo=robotframework&logoColor=white" />
       <img src="https://img.shields.io/badge/LLMOps-01411C?style=for-the-badge&logo=operations&logoColor=white" />
     </p>
-    
+  
     <!-- Cloud & MLOps -->
     <p>
       <img src="https://img.shields.io/badge/AWS-01411C?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
@@ -64,7 +64,7 @@
       <img src="https://img.shields.io/badge/Kubernetes-01411C?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
       <img src="https://img.shields.io/badge/MLflow-01411C?style=for-the-badge&logo=mlflow&logoColor=white" />
     </p>
-    
+  
     <!-- Dev Tools -->
     <p>
       <img src="https://img.shields.io/badge/Python-01411C?style=for-the-badge&logo=python&logoColor=white" />
