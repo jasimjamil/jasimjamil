@@ -40,39 +40,31 @@
   <h2 align="center">⚡ Tech Arsenal</h2>
   <div align="center">
     <!-- Core AI & ML -->
-    <p>
-      <img src="https://img.shields.io/badge/TensorFlow-01411C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-      <img src="https://img.shields.io/badge/PyTorch-01411C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-      <img src="https://img.shields.io/badge/OpenAI-01411C?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-01411C?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-      <img src="https://img.shields.io/badge/scikit_learn-01411C?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-    </p>
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-01411C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-01411C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+    ![OpenAI](https://img.shields.io/badge/OpenAI-01411C?style=for-the-badge&logo=openai&logoColor=white)
+    ![Hugging Face](https://img.shields.io/badge/Hugging_Face-01411C?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+    ![Scikit Learn](https://img.shields.io/badge/scikit_learn-01411C?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
   
     <!-- LLM Stack -->
-    <p>
-      <img src="https://img.shields.io/badge/LangChain-01411C?style=for-the-badge&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-01411C?style=for-the-badge&logo=graphql&logoColor=E10098" />
-      <img src="https://img.shields.io/badge/Agents-01411C?style=for-the-badge&logo=robotframework&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMOps-01411C?style=for-the-badge&logo=operations&logoColor=white" />
-    </p>
+    ![LangChain](https://img.shields.io/badge/LangChain-01411C?style=for-the-badge&logo=chainlink&logoColor=white)
+    ![LangGraph](https://img.shields.io/badge/LangGraph-01411C?style=for-the-badge&logo=graphql&logoColor=E10098)
+    ![Agents](https://img.shields.io/badge/Agents-01411C?style=for-the-badge&logo=robotframework&logoColor=white)
+    ![LLMOps](https://img.shields.io/badge/LLMOps-01411C?style=for-the-badge&logo=operations&logoColor=white)
   
     <!-- Cloud & MLOps -->
-    <p>
-      <img src="https://img.shields.io/badge/AWS-01411C?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-      <img src="https://img.shields.io/badge/Azure-01411C?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
-      <img src="https://img.shields.io/badge/Docker-01411C?style=for-the-badge&logo=docker&logoColor=2496ED" />
-      <img src="https://img.shields.io/badge/Kubernetes-01411C?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-      <img src="https://img.shields.io/badge/MLflow-01411C?style=for-the-badge&logo=mlflow&logoColor=white" />
-    </p>
+    ![AWS](https://img.shields.io/badge/AWS-01411C?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+    ![Azure](https://img.shields.io/badge/Azure-01411C?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4)
+    ![Docker](https://img.shields.io/badge/Docker-01411C?style=for-the-badge&logo=docker&logoColor=2496ED)
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-01411C?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+    ![MLflow](https://img.shields.io/badge/MLflow-01411C?style=for-the-badge&logo=mlflow&logoColor=white)
   
     <!-- Dev Tools -->
-    <p>
-      <img src="https://img.shields.io/badge/Python-01411C?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-01411C?style=for-the-badge&logo=fastapi&logoColor=009688" />
-      <img src="https://img.shields.io/badge/Streamlit-01411C?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
-      <img src="https://img.shields.io/badge/Neo4j-01411C?style=for-the-badge&logo=neo4j&logoColor=4581C3" />
-      <img src="https://img.shields.io/badge/Git-01411C?style=for-the-badge&logo=git&logoColor=F05032" />
-    </p>
+    ![Python](https://img.shields.io/badge/Python-01411C?style=for-the-badge&logo=python&logoColor=white)
+    ![FastAPI](https://img.shields.io/badge/FastAPI-01411C?style=for-the-badge&logo=fastapi&logoColor=009688)
+    ![Streamlit](https://img.shields.io/badge/Streamlit-01411C?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+    ![Neo4j](https://img.shields.io/badge/Neo4j-01411C?style=for-the-badge&logo=neo4j&logoColor=4581C3)
+    ![Git](https://img.shields.io/badge/Git-01411C?style=for-the-badge&logo=git&logoColor=F05032)
   </div>
   
   <!-- Professional Animated Skill Grid with Programming Images -->
