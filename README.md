@@ -1,136 +1,210 @@
-<!-- Dynamic Header with Particle Effect -->
+<!-- Premium 3D Header with Professional Gradient in Pakistani Green Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=200&section=header&text=AI%20Alchemist&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Transforming%20Data%20into%20Digital%20Gold&descAlignY=55&descAlign=50&fontColor=ffffff" />
-</div>
-
-<!-- Animated Gradient Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
-</div>
-
-<!-- 3D Animated Typing Text with Glow Effect -->
-<div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=AI+Architect+%7C+Machine+Learning+Savant;Neural+Network+Whisperer+%7C+Data+Scientist;Building+the+Brains+of+Tomorrow;Pushing+AI+Beyond+Human+Imagination" alt="Typing SVG" /></a>
-  </h1>
-</div>
-
-<!-- Particle JS Background Effect -->
-<div align="center">
-  <a href="https://yourusername.github.io/particle-background/">
-    <img src="https://img.shields.io/badge/✨_Interactive_Background-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- Glowing Tech Stack with Hover Effects -->
-<div align="center">
-  <h2>⚡ Lightning-Fast Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,fastapi,flask,docker,aws,gcp,azure,git,github,linux,vscode&theme=dark&perline=7" />
-</div>
-
-<!-- Animated Gradient Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
-</div>
-
-<!-- 3D Card Portfolio with Hover Effects -->
-<h2 align="center">🚀 Signature Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&theme=radical&show_owner=true" />
-        </a>
-      </td>
-      <td width="33%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=computer-vision&theme=radical&show_owner=true" />
-        </a>
-      </td>
-      <td width="33%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=llm-finetuning&theme=radical&show_owner=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Interactive GitHub Stats with 3D Effect -->
-<h2 align="center">📊 Real-Time Dev Pulse</h2>
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=40" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&fire=FF00FF&background=000000" />
-  </a>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
-  </a>
-</div>
-
-<!-- 3D Skill Bars with Animation -->
-<h2 align="center">🔥 Core Competencies</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8&hide_border=true" />
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">Deep Learning</p>
-      <img src="https://progress-bar.dev/95/?scale=100&title=progress&width=400&color=00ff00" />
-    </td>
-    <td>
-      <p align="center">Natural Language Processing</p>
-      <img src="https://progress-bar.dev/90/?scale=100&title=progress&width=400&color=ff00ff" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">Computer Vision</p>
-      <img src="https://progress-bar.dev/85/?scale=100&title=progress&width=400&color=00ffff" />
-    </td>
-    <td>
-      <p align="center">Cloud Architecture</p>
-      <img src="https://progress-bar.dev/80/?scale=100&title=progress&width=400&color=ffff00" />
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Contact Section with Hover Effects -->
-<div align="center">
-  <h2>🌌 Connect With Me</h2>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=121212" />
-  </a>
-  <a href="mailto:youremail@domain.com">
-    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121212" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=121212" />
-  </a>
-</div>
-
-<!-- Floating Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<!-- Interactive Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=FF00FF&style=for-the-badge" />
-</div>
-
-<!-- Music Player (Spotify) -->
-<div align="center">
-  <h2>🎧 Current Coding Soundtrack</h2>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=ff00ff&bar_color_cover=true" />
-  </a>
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006600,50:01411C,100:1F1F1F&height=300&section=header&text=Jasim%20Jamil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Specialist%20%7C%20Agent%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  </div>
+  
+  <!-- Professional Animated Divider -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  </div>
+  
+  <!-- Pakistani Cultural Profile Image - Using programming-related image -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" style="border-radius:50%; border: 3px solid #01411C;">
+    <h1>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=01411C&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%7C+Machine+Learning+Architect;LLM+%26+Generative+AI+Specialist;Agent+Systems+Designer;Building+The+Future+of+Intelligent+Systems" alt="Typing SVG" /></a>
+    </h1>
+  </div>
+  
+  <!-- Professional Dashboard Stats Section -->
+  <div align="center">
+    <a href="#">
+      <img src="https://github-profile-trophy.vercel.app/?username=jasimjamil&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
+    </a>
+  </div>
+  
+  <!-- Professional Badge Section -->
+  <div align="center">
+    <a href="https://jasimai.vercel.app">
+      <img src="https://img.shields.io/badge/✨_Portfolio-01411C?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://huggingface.co/jasimjamil">
+      <img src="https://img.shields.io/badge/🤗_HuggingFace-01411C?style=for-the-badge&logo=huggingface&logoColor=white" />
+    </a>
+    <a href="https://kaggle.com/jasimjamil">
+      <img src="https://img.shields.io/badge/Kaggle-01411C?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+    </a>
+  </div>
+  
+  <!-- Premium Skills Showcase with Pakistan Color Theme -->
+  <h2 align="center">⚡ Cutting-Edge Tech Mastery</h2>
+  <div align="center">
+    <!-- Core Languages & Frameworks -->
+    <img src="https://img.shields.io/badge/Python-01411C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-01411C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+    <img src="https://img.shields.io/badge/PyTorch-01411C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+    <img src="https://img.shields.io/badge/scikit_learn-01411C?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+    <img src="https://img.shields.io/badge/Pandas-01411C?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-01411C?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-01411C?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+    <br />
+    
+    <!-- Cloud & Operations -->
+    <img src="https://img.shields.io/badge/Docker-01411C?style=for-the-badge&logo=docker&logoColor=2496ED" />
+    <img src="https://img.shields.io/badge/Kubernetes-01411C?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+    <img src="https://img.shields.io/badge/AWS-01411C?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+    <img src="https://img.shields.io/badge/GCP-01411C?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
+    <img src="https://img.shields.io/badge/Azure-01411C?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
+    <img src="https://img.shields.io/badge/MLflow-01411C?style=for-the-badge&logo=mlflow&logoColor=white" />
+    <br />
+    
+    <!-- Specialized AI Frameworks -->
+    <img src="https://img.shields.io/badge/LangChain-01411C?style=for-the-badge&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangSmith-01411C?style=for-the-badge&logo=smith&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangGraph-01411C?style=for-the-badge&logo=graphql&logoColor=E10098" />
+    <img src="https://img.shields.io/badge/Hugging_Face-01411C?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+    <img src="https://img.shields.io/badge/OpenAI_API-01411C?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Agents_Framework-01411C?style=for-the-badge&logo=robotframework&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP_Certified-01411C?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <br />
+    
+    <!-- Advanced Data Processing -->
+    <img src="https://img.shields.io/badge/Spark-01411C?style=for-the-badge&logo=apache-spark&logoColor=E25A1C" />
+    <img src="https://img.shields.io/badge/Kafka-01411C?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neo4j-01411C?style=for-the-badge&logo=neo4j&logoColor=4581C3" />
+    <img src="https://img.shields.io/badge/Elasticsearch-01411C?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ray-01411C?style=for-the-badge&logo=ray&logoColor=white" />
+    <br />
+    
+    <!-- Additional Tools & Extensions -->
+    <img src="https://img.shields.io/badge/Streamlit-01411C?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+    <img src="https://img.shields.io/badge/FastAPI-01411C?style=for-the-badge&logo=fastapi&logoColor=009688" />
+    <img src="https://img.shields.io/badge/Flask-01411C?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Weights_&_Biases-01411C?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00" />
+    <img src="https://img.shields.io/badge/Git-01411C?style=for-the-badge&logo=git&logoColor=F05032" />
+    <img src="https://img.shields.io/badge/VSCode-01411C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  </div>
+  
+  <!-- Professional Animated Skill Grid with Programming Images -->
+  <h2 align="center">🧠 AI Expertise Map</h2>
+  <div align="center">
+    <table border="0" style="width:100%; border:none; background:transparent;">
+      <tr>
+        <td align="center">
+          <!-- Using reliable programming images -->
+          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" /><br />
+          <b>LLM Orchestration</b><br />
+          <img src="https://progress-bar.dev/98/?scale=100&width=220&color=01411C" />
+        </td>
+        <td align="center">
+          <!-- Using reliable programming images -->
+          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" /><br />
+          <b>Generative AI</b><br />
+          <img src="https://progress-bar.dev/96/?scale=100&width=220&color=01411C" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <!-- Using reliable programming images -->
+          <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" /><br />
+          <b>Agent Architecture</b><br />
+          <img src="https://progress-bar.dev/95/?scale=100&width=220&color=01411C" />
+        </td>
+        <td align="center">
+          <!-- Using reliable programming images -->
+          <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" /><br />
+          <b>ML Engineering</b><br />
+          <img src="https://progress-bar.dev/94/?scale=100&width=220&color=01411C" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <!-- Using reliable programming images -->
+          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" /><br />
+          <b>NLP & NLU</b><br />
+          <img src="https://progress-bar.dev/97/?scale=100&width=220&color=01411C" />
+        </td>
+        <td align="center">
+          <!-- Using reliable programming images -->
+          <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-413e-b03f-c0969ea02b3f.gif" width="100" /><br />
+          <b>MLOps & DevOps</b><br />
+          <img src="https://progress-bar.dev/93/?scale=100&width=220&color=01411C" />
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <!-- Professional Project Showcase with Pakistani Green Theme -->
+  <h2 align="center">🚀 Landmark Projects</h2>
+  <div align="center">
+    <a href="https://github.com/jasimjamil/CareAI-Platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=CareAI-Platform&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
+    <a href="https://github.com/jasimjamil/ai-assistant-platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=ai-assistant-platform&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
+    <a href="https://github.com/jasimjamil/multi_chatbot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=multi_chatbot&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
+    <a href="https://github.com/jasimjamil/DiaryMind-"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=DiaryMind-&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
+  </div>
+  
+  <!-- Professional GitHub Stats Dashboard -->
+  <h2 align="center">📊 Contribution Analytics</h2>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jasimjamil&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+        </td>
+        <td>
+          <img src="https://streak-stats.demolab.com?user=jasimjamil&theme=dark&hide_border=true&border_radius=10&ring=01411C&fire=01411C&currStreakLabel=01411C" />
+        </td>
+      </tr>
+    </table>
+    <a href="#">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasimjamil&theme=github_dark" width="100%" />
+    </a>
+  </div>
+  
+  <!-- Professional Activity Graph with Higher Contribution Appearance -->
+  <div align="center">
+    <h2>🔄 AI Development Lifecycle</h2>
+    <a href="#">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasimjamil&theme=merko&hide_border=true&area=true&custom_title=Continuous%20AI%20Development%20Journey&height=300&radius=15&point=01411C&area_color=01411C" width="95%" />
+    </a>
+  </div>
+  
+  <!-- Professional Connect Section with Updated Links -->
+  <h2 align="center">🌌 Professional Network</h2>
+  <div align="center">
+    <a href="https://linkedin.com/in/jasim-jamil-b21802287">
+      <img src="https://img.shields.io/badge/LinkedIn-01411C?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Jasimjamil-tm4ks">
+      <img src="https://img.shields.io/badge/Twitter-01411C?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://jasimai.vercel.app">
+      <img src="https://img.shields.io/badge/Website-01411C?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://huggingface.co/jasimjamil">
+      <img src="https://img.shields.io/badge/Hugging_Face-01411C?style=for-the-badge&logo=huggingface&logoColor=white" />
+    </a>
+    <a href="mailto:contact@jasimai.vercel.app">
+      <img src="https://img.shields.io/badge/Email-01411C?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://calendly.com/jasimjamil">
+      <img src="https://img.shields.io/badge/Schedule_Meeting-01411C?style=for-the-badge&logo=google-calendar&logoColor=white" />
+    </a>
+  </div>
+  
+  <!-- Professional Contribution Animation -->
+  <div align="center">
+    <h2>🏆 Contribution Journey</h2>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasimjamil/jasimjamil/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasimjamil/jasimjamil/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/jasimjamil/jasimjamil/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </picture>
+  </div>
+  
+  <!-- Professional Footer with Counter -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01411C,50:006600,100:1F1F1F&height=120&section=footer&text=Merging%20Imagination%20with%20Intelligence&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" />
+    <img src="https://komarev.com/ghpvc/?username=jasimjamil&label=PROFILE+VIEWS&style=for-the-badge&color=01411C" />
+  </div>
+  
