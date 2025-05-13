@@ -91,15 +91,7 @@
     </table>
   </div>
   
-  <!-- Professional Project Showcase with Pakistani Green Theme -->
-  <h2 align="center">🚀 Landmark Projects</h2>
-  <div align="center">
-    <a href="https://github.com/jasimjamil/CareAI-Platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=CareAI-Platform&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
-    <a href="https://github.com/jasimjamil/ai-assistant-platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=ai-assistant-platform&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
-    <a href="https://github.com/jasimjamil/multi_chatbot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=multi_chatbot&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
-    <a href="https://github.com/jasimjamil/DiaryMind-"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasimjamil&repo=DiaryMind-&theme=github_dark&hide_border=true&show_icons=true&show_description=true" /></a>
-  </div>
-  
+
   <!-- Professional GitHub Stats Dashboard -->
   <h2 align="center">📊 Contribution Analytics</h2>
   <div align="center">
