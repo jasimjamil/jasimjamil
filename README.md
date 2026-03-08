@@ -288,7 +288,7 @@ React ── Next.js ── Python ── OpenAI
 <a href="https://linkedin.com/in/jasim-jamil-b21802287">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
-<a href="https://twitter.com/Jasimjamil-tm4ks">
+<a href="https://x.com/aibyjasim">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FFD700" />
 </a>
 <a href="https://jasimai.vercel.app">
